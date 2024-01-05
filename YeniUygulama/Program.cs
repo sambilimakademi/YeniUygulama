@@ -10,11 +10,13 @@ namespace YeniUygulama
     {
         static void Main(string[] args)
         {
-
+            // bir değişiklik yapacam--
 
             for (int a = 0; a<10;a++)
             {
                 Console.WriteLine("djksjkdjf");
+                Console.WriteLine("dadım");
+                Console.WriteLine("mehmet");
             }
         }
     }
